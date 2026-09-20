@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="DBDReshadeManager/Images/App/logo.png" width="128" alt="DBD Reshade Manager logo">
-</p>
+</p> -->
 
 <h1 align="center">DBD Reshade Manager</h1>
 
